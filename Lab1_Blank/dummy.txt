@@ -1,1 +1,2 @@
+old-folder/dummy.txt → new-folder/dummy.txt
 
