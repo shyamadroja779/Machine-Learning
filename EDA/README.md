@@ -1,1 +1,6 @@
-THIS FILE CONTAINS BASIC EDA PERFORM ON DATASET GOOGLEPLAYTSTORE AVILABLE IN KAGGLE.
+###LAB-2
+
+EDA: Google Play Store Apps
+Dataset: Google Play Store Apps (Available on Kaggle)
+Objective: Transform raw, messy data into clean, actionable insights using Pandas.
+Focus: Data Cleaning, String Sanitization, Advanced Imputation, Correlation.
